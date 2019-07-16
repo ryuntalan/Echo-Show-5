@@ -1,0 +1,121 @@
+/* Global */
+
+body {
+  margin-top: 90px;
+  font-size: 15px;
+}
+
+h1,
+h2 {
+  font-family: Poppins;
+}
+
+p {
+  font-family: Roboto;
+}
+
+/* Navbar */
+
+.navbar-light {
+  font-family: Poppins;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Showcase */
+
+#showcase h1 {
+  font-size: 45px;
+  margin-bottom: 20px;
+  margin-top: 80px;
+}
+
+#showcase img {
+  width: 100%;
+  margin-top: 55px;
+  margin-left: -25px;
+}
+
+#showcase .btn {
+  border: 1px solid #f1f1f1;
+}
+
+/* Testimonials */
+
+#testimonial {
+  background: #f8f9fa;
+  font-size: 13px;
+  padding: 50px 70px 30px 70px;
+  text-align: center;
+  margin-top: 45px;
+}
+
+#testimonial p {
+  font-size: 20px;
+  font-weight: 300;
+  font-family: "Josefin Sans";
+  color: #000000;
+}
+
+#testimonial p.customer {
+  font-size: 15px;
+  color: #292929;
+}
+
+/* info1 */
+
+#info1 {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+#info1 .info-right {
+  margin-top: 120px;
+}
+
+#info1 .btn {
+  border: 1px solid #f1f1f1;
+}
+
+#info1 img {
+  width: 100%;
+}
+
+/* info2 */
+
+#info2 {
+  margin-bottom: 80px;
+}
+
+#info2 .btn {
+  border: 1px solid #f1f1f1;
+  display: flex;
+  justify-content: center;
+  width: 20%;
+  margin: auto;
+}
+
+/* contact */
+
+#contact {
+  padding: 50px;
+  border-top: #f1f1f1 2px solid;
+  border-bottom: #f1f1f1 2px solid;
+}
+
+#contact img {
+  width: 100%;
+}
+
+#contact button {
+  border: 1px solid #f1f1f1;
+}
+
+/* Footer */
+
+footer {
+  padding: 20px;
+}
